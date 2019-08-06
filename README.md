@@ -6,7 +6,7 @@ This repository  containes some schematics and PCB files . This work was a part 
 
 
 ![](https://github.com/rhoumajeder/stm32-For-Drone/blob/master/Drone_PCB_STM32_MCU.png)
-![](https://github.com/rhoumajeder/stm32-For-Drone/blob/master/pcb.png)
+![](https://github.com/rhoumajeder/stm32-For-Drone/blob/master/pcb.PNG)
 ![](https://github.com/rhoumajeder/stm32-For-Drone/blob/master/Drone%20_Schematic_STM32_MCU.png)
 
 
